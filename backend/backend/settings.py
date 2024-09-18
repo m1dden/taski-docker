@@ -11,9 +11,6 @@ DEBUG = True
 ALLOWED_HOSTS = ['89.169.174.95', 'm1dden.ddns.net', 'localhost']
 
 
-
-# Application definition
-
 INSTALLED_APPS = [
     'api.apps.ApiConfig',
     'django.contrib.admin',
